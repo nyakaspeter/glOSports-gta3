@@ -1,0 +1,6 @@
+[Entry]
+CATEGORY=Games
+NAME=Grand Theft Auto III
+DESCRIPTION=Running natively via Rockstar's Android build
+COMMAND=/home/player/ports/gta3/start.sh
+ICON=/home/player/ports/gta3/icon.png
