@@ -20,7 +20,7 @@ From your own install of the Android game (package `com.rockstar.gta3`), into
 | From | Version | What goes into `game/` |
 |---|---|---|
 | `main.5.com.rockstar.gta3.obb` | 5 | its contents (it is a zip), first |
-| the `.apk` | the one with `libR1.so` of 2015-03-05, md5 `884abb8d…` | the contents of `assets/` over the OBB's (its `TEXT/*.gxt` are newer), and `lib/armeabi-v7a/libR1.so` |
+| the `.apk` | version 1.6 (`libR1.so` of 2015-03-05, md5 `884abb8d…`) | the contents of `assets/` over the OBB's (its `TEXT/*.gxt` are newer), and `lib/armeabi-v7a/libR1.so` |
 
 The OBB is in `/sdcard/Android/obb/com.rockstar.gta3/` on the phone. Files
 named `…~HEAD` or `…~<hash>` in some unpacked APKs are leftovers of the tool
