@@ -145,6 +145,11 @@ Test tools are shared: `../goodluckOS-tools/testing-sync.sh gta3` puts them
 on the console (`glos/testing/`), `testing-clean.sh gta3` takes them off,
 `shot.sh gta3 file.png` takes a screenshot (see `goodluckOS-tools`).
 
+## Licence
+
+The port's own code is MIT (`LICENSE`); `package.sh` puts a copy into the game folder's
+`licenses/`. Third-party code it carries keeps its own licence (below).
+
 ## Third-party components
 
 Code carried over from the Vita loaders it names keeps their MIT notices;
