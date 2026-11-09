@@ -5,7 +5,7 @@ Grand Theft Auto III through Rockstar's Android build (War Drum Studios,
 resolves its imports to goodluckOS's glibc, ARM's Mali GLES 2.0 driver (from
 the folder's `glos/`, see `goodluckOS-mali-driver`), OpenAL Soft and SDL's pad,
 answers its Java calls through a fake JNI, and runs it. The loader core is
-carried over from `glOSports-gtasa`. Separate from `glOSports-re3`, which
+carried over from `glOSports-gtasa`. Separate from `glOSports-gta3-pc`, which
 runs the PC data on re3. There is no Vita loader of this build to take the
 game's fixes from. The console stays stock goodluckOS.
 
